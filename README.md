@@ -2,7 +2,7 @@
 
 A synchronized system for recording neural activity (Miniscope V4), video (Pylon camera), and behavior (licking) for a 2-AFC spatial decision-making task on a linear track. The core of the system relies on Bonsai-RX for data stream management and a dual-Arduino setup for robust, real-time behavioral event detection and synchronization.
 
-This project was developed as part of my in-vivo neuroscience research to study licking behavior in mice during reward-based behavioral tasks. I wanted to create a low-cost, modifiable alternative to com
+This project was developed as part of my in-vivo neuroscience research to study licking behavior in mice during reward-based behavioral tasks. I wanted to create a low-cost, modifiable alternative to commercial systems that integrates seamlessly with imaging tools.
 ![System Diagram](image.png)
 
 ## System Architecture
