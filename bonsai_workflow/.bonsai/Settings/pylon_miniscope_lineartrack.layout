@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisualizerLayout Version="2.9.0">
+  <WindowSettings Index="3">
+    <Visible>false</Visible>
+    <Location>
+      <X>865</X>
+      <Y>470</Y>
+    </Location>
+    <Size>
+      <Width>853</Width>
+      <Height>633</Height>
+    </Size>
+    <VisualizerTypeName>Bonsai.Vision.Design.IplImageVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <IplImageVisualizer />
+    </VisualizerSettings>
+  </WindowSettings>
+  <WindowSettings Index="15">
+    <Visible>false</Visible>
+    <Location>
+      <X>156</X>
+      <Y>169</Y>
+    </Location>
+    <Size>
+      <Width>336</Width>
+      <Height>283</Height>
+    </Size>
+    <VisualizerTypeName>Bonsai.Vision.Design.IplImageVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <IplImageVisualizer />
+    </VisualizerSettings>
+  </WindowSettings>
+  <WindowSettings Index="26">
+    <Visible>false</Visible>
+    <Location>
+      <X>182</X>
+      <Y>197</Y>
+    </Location>
+    <Size>
+      <Width>416</Width>
+      <Height>283</Height>
+    </Size>
+    <VisualizerTypeName>Bonsai.Design.Visualizers.BooleanTimeSeriesVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <BooleanTimeSeriesVisualizer>
+        <Capacity>640</Capacity>
+      </BooleanTimeSeriesVisualizer>
+    </VisualizerSettings>
+  </WindowSettings>
+  <WindowSettings Index="32">
+    <Visible>false</Visible>
+    <Location>
+      <X>681</X>
+      <Y>200</Y>
+    </Location>
+    <Size>
+      <Width>416</Width>
+      <Height>283</Height>
+    </Size>
+    <VisualizerTypeName>Bonsai.Design.Visualizers.BooleanTimeSeriesVisualizer</VisualizerTypeName>
+    <VisualizerSettings>
+      <BooleanTimeSeriesVisualizer>
+        <Capacity>640</Capacity>
+      </BooleanTimeSeriesVisualizer>
+    </VisualizerSettings>
+  </WindowSettings>
+</VisualizerLayout>
