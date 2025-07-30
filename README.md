@@ -23,10 +23,10 @@ This system uses a dual-Arduino design to achieve high-sensitivity lick detectio
     * `Bonsai` serves as the central hub to receive, process, visualize, and save all data streams (digital inputs from Arduino 2, Miniscope frames, Pylon frames) in a synchronized manner.
 
 * **Neural Recording**: 
-    A `Miniscope V4` system captures calcium imaging data from behaving mice.
+    * A `Miniscope V4` system captures calcium imaging data from behaving mice.
 
 * **Video Monitoring**:
-    A `Basler Pylon` camera records the animal's behavior on the linear track.
+    * A `Basler Pylon` camera records the animal's behavior on the linear track.
 
 ## Hardware List
 
@@ -165,7 +165,7 @@ There are two `DigitalInput` nodes for reading lick events from Arduino #2 (the 
 
 Once all nodes are configured correctly, press the **Start** button in the toolbar to begin data acquisition. You should see four pop-up windows displaying the live data streams: the Pylon camera view, the Miniscope view, and two graphs showing the digital traces of the lick detectors.
 
-## Code Description
+## Arduino Firmware Description
 
 ### `arduino_firmware/`
 
